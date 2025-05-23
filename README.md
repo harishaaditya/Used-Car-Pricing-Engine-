@@ -1,4 +1,4 @@
-# Used-Car-Prediction Model
+# Used-Car-Pricing-Model
 
 Business problem statement (GOALS)
 1.	Business Problem Understanding
